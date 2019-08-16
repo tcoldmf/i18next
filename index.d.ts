@@ -985,4 +985,4 @@ declare namespace i18next {
 }
 
 declare const i18next: i18next.i18n;
-export = i18next;
+export default i18next;
